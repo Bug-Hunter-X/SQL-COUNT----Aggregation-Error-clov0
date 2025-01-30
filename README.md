@@ -1,0 +1,2 @@
+# SQL COUNT(*) Aggregation Error
+This repository contains a demonstration of a common error in SQL queries involving the `COUNT(*)` aggregate function. The original query incorrectly calculates the number of employees in the 'Sales' department. The solution demonstrates the correct implementation and potential debugging steps.
